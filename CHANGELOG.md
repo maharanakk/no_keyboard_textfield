@@ -1,3 +1,9 @@
+## 1.0.4
+- Improved Windows keyboard prevention reliability
+- Documentation improvements
+- Better scanner workflow handling
+- Minor stability fixes
+
 ## 1.0.3
 - Added Windows & Linux desktop compatibility
 - Prevents Windows touch keyboard popup (TabTip)
