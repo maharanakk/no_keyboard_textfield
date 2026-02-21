@@ -1,6 +1,6 @@
 name: no_keyboard_textfield
 description: A Flutter widget that prevents soft keyboard while keeping text input focus. Perfect for barcode scanners & hardware keyboards.
-version: 1.0.2
+version: 1.0.3
 homepage: https://github.com/maharanakk/no_keyboard_textfield
 repository: https://github.com/maharanakk/no_keyboard_textfield
 issue_tracker: https://github.com/maharanakk/no_keyboard_textfield/issues
