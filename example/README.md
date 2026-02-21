@@ -1,3 +1,9 @@
+## Support the Project ❤️
+
+If this package helped you, consider buying me a coffee ☕
+
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=maharanadev&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/maharanadev)
+
 # No Keyboard TextField
 
 A Flutter widget that allows text input without opening mobile soft keyboard.
